@@ -164,6 +164,10 @@ The immutable specification, architectural papers, and formal versions are regis
 
 This framework, specification, and conceptual architecture are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-* **You are free to:** Share, read, reference, and build upon this research for academic, internal, and non-commercial verification purposes.
-* **Attribution required:** You must give appropriate credit to **Erkki Laine** as the original author.
-* **Non-Commercial restriction:** You may **not** package, rebrand, or sell this framework as a commercial product, consulting methodology, or proprietary toolkit without explicit written licensing.
+* **You are free to:** Share, read, reference, and evaluate this research for academic study, personal competence development, and isolated non-production lab testing.
+* **Attribution required:** You must give appropriate credit to **Erkki Laine** as the original author and cite the respective Zenodo DOIs.
+* **Non-Commercial restriction:** You may **not** use, adapt, or integrate this framework within for-profit corporate production environments, live decision pipelines, or statutory compliance enforcement (such as DORA, NIS2, or ISO), nor package/sell it as a commercial product or consulting methodology, without explicit written commercial licensing.
+
+### Commercial & Enterprise Licensing
+Production runtime usage within commercial entities requires an official **Commercial Enterprise License (€100,000 / 3 years)**.
+* For enterprise licensing agreements, production grants, and compliance verification: Open a GitHub Issue tagged `[Commercial Licensing]` or contact `licensing@decisiongate.fi`.
