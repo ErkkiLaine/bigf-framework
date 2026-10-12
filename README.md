@@ -170,4 +170,4 @@ This framework, specification, and conceptual architecture are licensed under th
 
 ### Commercial & Enterprise Licensing
 Production runtime usage within commercial entities requires an official **Commercial Enterprise License (€100,000 / 3 years)**.
-* For enterprise licensing agreements, production grants, and compliance verification: Open a GitHub Issue tagged `[Commercial Licensing]` or contact `licensing@decisiongate.fi`.
+* For enterprise licensing agreements, production grants, and compliance verification: contact `erkki.j.laine@gmail.com`.
