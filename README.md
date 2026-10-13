@@ -169,5 +169,5 @@ This framework, specification, and conceptual architecture are licensed under th
 * **Non-Commercial restriction:** You may **not** use, adapt, or integrate this framework within for-profit corporate production environments, live decision pipelines, or statutory compliance enforcement (such as DORA, NIS2, or ISO), nor package/sell it as a commercial product or consulting methodology, without explicit written commercial licensing.
 
 ### Commercial & Enterprise Licensing
-Production runtime usage within commercial entities requires an official **Commercial Enterprise License (€100,000 / 3 years)**.
-* For enterprise licensing agreements, production grants, and compliance verification: contact `erkki.j.laine@gmail.com`.
+Production runtime usage within commercial entities requires an official **Commercial Enterprise License**.
+* For enterprise licensing agreements and commercial audits: contact the author directly via LinkedIn or through the official Zenodo / ORCID repository.
